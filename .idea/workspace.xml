@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fa3bb01-2f3a-48b1-8b5d-eb9438578f0e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/description.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/java/util/annotations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/Coordinate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/CourseSchedule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/CourseScheduleII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/KnightsShortestPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/NumsOfIslands.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BFSAndTopologicalSort/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BinaryTree/InorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BinaryTree/PostorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BinaryTree/PreorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/BinaryTree/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/ConnectingGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/ConnectingGraphII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/ConnectingGraphIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/GraphValidTreeWithBFS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/GraphValidTreeWithUnionFind$UnionFind.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/GraphValidTreeWithUnionFind.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestNumberInSortedMatrix$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestNumberInSortedMatrix$PairComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestNumberInSortedMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestSumInTwoSortedArray$Pair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestSumInTwoSortedArray$PairComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/KthSmallestSumInTwoSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/LongestSubstringWithAtMostKDistinctCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/MinimumSizeSubarraySum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/Trie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/WordDictionary$TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/JiuZhangSenior/WordDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/LinkedList/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/LinkedList/ReverseLinkedLIstII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/LinkedList/ReverseLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/BubbleSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/BucketSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/InsertionSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/MergeSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/QuickSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/SelectionSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/HIndex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/InsertInterval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/IntersectionOfTwoArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/IntersectionOfTwoArraysII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/KthLargestElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/MaximumGap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/MeetIngRooms.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/SortColors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/WiggleSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/WiggleSortII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/Sorting/leetcodeProblems/findWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/binarySearchAndLognAlgorithm/FindKClosetElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/binarySearchAndLognAlgorithm/PowerOf2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/binarySearchAndLognAlgorithm/TotalOccurrenceOfTarget.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/CloneRandomListNode$RandomListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/CloneRandomListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/ConvertBSTtoLinkedList$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/ConvertBSTtoLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindContinuesSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindFirstCommonNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindGreatestSumOfSubArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindNumbersWithSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindNumsAppearOnce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindPath$TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/FindPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/GetLeastNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/GetNumberOfK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/GetUglyNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/InversePairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/IsBalanced.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/LevelOrderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/MoreThanHalf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/NumberOfOnesBetween1AndN.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/Permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/PrintMinNumber$Cmp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/PrintMinNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/TreeDepth.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/VerifySquenceOfBST.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/isPopOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/jianzhioffer/minStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/Add_two_numbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/Two_Sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/computeIntersctionOfTwoSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/longestSubstringWihoutReapeating.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/search_a_2D_matrix1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/search_a_2D_matrix2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/leetcode/sortedLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/KthSmallestNumbersInUnsortedArra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/MoveZeros.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TriangleCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSum2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSum5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSum6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSumCloset.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSumIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/TwoSumWithSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/twoPointerAlgorithm/WindowSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/unsolvedProblemsDuringInterview/Permutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/Coordinate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/CourseSchedule.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/CourseScheduleII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/KnightsShortestPath.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/NumsOfIslands.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BFSAndTopologicalSort/Point.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BinaryTree/InorderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BinaryTree/PostorderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BinaryTree/PreorderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/BinaryTree/TreeNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/ConnectingGraph.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/ConnectingGraphII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/ConnectingGraphIII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/GraphValidTreeWithBFS.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/GraphValidTreeWithUnionFind.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/KthSmallestNumberInSortedMatrix.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/KthSmallestSumInTwoSortedArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/LongestSubstringWithAtMostKDistinctCharacters.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/MinimumSizeSubarraySum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/Trie.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/JiuZhangSenior/WordDictionary.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/LinkedList/ListNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/LinkedList/ReverseLinkedLIstII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/LinkedList/ReverseLinkedList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/BubbleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/BucketSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/InsertionSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/MergeSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/QuickSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/SelectionSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/HIndex.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/InsertInterval.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/IntersectionOfTwoArrays.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/IntersectionOfTwoArraysII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/Interval.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/KthLargestElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/MaximumGap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/MeetIngRooms.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/SortColors.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/WiggleSort.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/WiggleSortII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/Sorting/leetcodeProblems/findWords.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/binarySearchAndLognAlgorithm/FindKClosetElements.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/binarySearchAndLognAlgorithm/PowerOf2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/binarySearchAndLognAlgorithm/TotalOccurrenceOfTarget.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/CloneRandomListNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/ConvertBSTtoLinkedList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindContinuesSequence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindFirstCommonNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindGreatestSumOfSubArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindNumbersWithSum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindNumsAppearOnce.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/FindPath.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/GetLeastNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/GetNumberOfK.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/GetUglyNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/InversePairs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/IsBalanced.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/IsContinuous.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/LeftRotateString.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/LevelOrderTraversal.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/MoreThanHalf.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/NumberOfOnesBetween1AndN.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/Permutation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/PrintMinNumber.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/ReverseSentence.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/TreeDepth.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/VerifySquenceOfBST.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/isPopOrder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/jianzhioffer/minStack.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/Add_two_numbers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/ListNode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/Two_Sum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/computeIntersctionOfTwoSortedArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/longestSubstringWihoutReapeating.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/search_a_2D_matrix1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/search_a_2D_matrix2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/leetcode/sortedLinkedList.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/KthSmallestNumbersInUnsortedArra.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/MoveZeros.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TriangleCount.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSum2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSum5.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSum6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSumCloset.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSumIII.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/TwoSumWithSortedArray.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/twoPointerAlgorithm/WindowSum.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode/src/unsolvedProblemsDuringInterview/Permutation.java" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="algorithm.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithm.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lyn/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectingGraph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JiuZhangSenior/ConnectingGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree/InorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/lyn/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="13" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.lyn.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa3bb01-2f3a-48b1-8b5d-eb9438578f0e" name="Default" comment="" />
+      <created>1532666979634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532666979634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/algorithm.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/BFSAndTopologicalSort/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/InorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lyn/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="76" lean-forward="false" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JiuZhangSenior/ConnectingGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
