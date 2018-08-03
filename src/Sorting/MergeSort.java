@@ -27,7 +27,7 @@ public class MergeSort {
         }
     }
     public static void main(String[] arg) {
-        int[] A = {1,3,4,2,7,6,9};
+        int[] A = {5,5,5,4,3,2,7,8,7,3,1};
         sort(A, 0, A.length - 1);
         for (int i = 0; i < A.length; i++) {
             System.out.print(A[i]);
