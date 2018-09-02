@@ -6,6 +6,7 @@
 package unsolvedProblemsDuringInterview;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Permutation {
@@ -42,10 +43,38 @@ public class Permutation {
 
     }
 
+    public List<String> newPermutation(List<Character> array){
+
+        if(array.size() == 0){
+            return new ArrayList<String>();
+        }
+
+        char newChar = array.get(0);
+        List<String> list = newPermutation(array.subList(1,array.size()));
+
+        List<String> newList = new ArrayList<>();
+
+        for(String s : list){
+            newList.add(s + newChar);
+            newList.add(s);
+        }
+
+        newList.add(newChar + "");
+
+        return newList;
+    }
+
+
+
     public static void main(String[] args){
-        char[] array = {'A', 'B', 'C', 'D', 'E'};
+        char[] array = {'A', 'B', 'C'};
+        List<Character> list = new ArrayList<>();
+        for(char c : array){
+            list.add(c);
+        }
+
         Permutation permutation = new Permutation();
-        List<String> res = permutation.helper(array);
+        List<String> res = permutation.newPermutation(list);
         for(String c : res){
             System.out.println(c);
         }

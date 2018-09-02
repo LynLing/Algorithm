@@ -6,10 +6,10 @@ public class InsertionSort {
             return;
         }
         int v,j;
-        for(int i = 2; i < A.length; i++) {
+        for(int i = 0; i < A.length; i++) {
             v = A[i];
             j = i;
-            while(A[j - 1] > v && j >= 1){
+            while(j > 0 && A[j - 1] > v){
                 A[j] = A[j - 1];
                 j --;
             }
@@ -18,7 +18,7 @@ public class InsertionSort {
      }
 
     public static void main(String[] arg) {
-        int[] A = {1,3,4,2,7,6,9};
+        int[] A = {9,3,4,2,7,6,1};
         sort(A);
         for (int i = 0; i < A.length; i++) {
             System.out.print(A[i]);
