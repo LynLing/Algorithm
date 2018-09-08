@@ -3,7 +3,7 @@
 
 给定树的根结点指针TreeNode* root，请返回一个bool，代表该树是否为二叉查找树。
  */
-package CrakingTheInterview;
+package CrackingTheInterview.CrakingTheInterview;
 
 import BinaryTree.TreeNode;
 

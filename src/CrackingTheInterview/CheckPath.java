@@ -4,7 +4,7 @@
 给定图中的两个结点的指针DirectedGraphNode* a, DirectedGraphNode* b
 (请不要在意数据类型，图是有向图),请返回一个bool，代表两点之间是否存在一条路径(a到b或b到a)。
  */
-package CrakingTheInterview;
+package CrackingTheInterview.CrakingTheInterview;
 
 
 import java.util.*;

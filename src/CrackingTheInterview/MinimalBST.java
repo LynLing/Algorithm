@@ -3,7 +3,7 @@
 
 给定一个有序序列int[] vals,请返回创建的二叉查找树的高度。
  */
-package CrakingTheInterview;
+package CrackingTheInterview.CrakingTheInterview;
 
 import BinaryTree.TreeNode;
 
